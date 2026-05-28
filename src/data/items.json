@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung Galaxy Buds 3 Pro",
+    "price": 249,
+    "description": "Premium Samsung earbuds with ANC, 360 audio and AI features.",
+    "image": "public/images/1.webp"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy Buds 3",
+    "price": 179,
+    "description": "New generation Galaxy earbuds with stem design and active noise cancelling.",
+    "image": "public/images/2.webp"
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy Buds 2 Pro",
+    "price": 229,
+    "description": "High-resolution audio earbuds with intelligent ANC and 360 sound.",
+    "image": "public/images/3.webp"
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy Buds 2",
+    "price": 149,
+    "description": "Compact and lightweight earbuds with balanced sound.",
+    "image": "public/images/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy Buds FE",
+    "price": 99,
+    "description": "Fan Edition earbuds with strong battery life and good noise cancelling.",
+    "image": "public/images/5.webp"
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy Buds Pro",
+    "price": 199,
+    "description": "Premium earbuds with immersive sound and ANC.",
+    "image": ""
+  },
+  {
+    "id": 7,
+    "name": "Samsung Galaxy Buds Live",
+    "price": 169,
+    "description": "Unique bean-shaped earbuds with open sound design.",
+    "image": ""
+  },
+  {
+    "id": 8,
+    "name": "Samsung Galaxy Buds Plus",
+    "price": 149,
+    "description": "Wireless earbuds with long battery life and dual speakers.",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "name": "Samsung Galaxy Buds",
+    "price": 129,
+    "description": "Original Galaxy Buds with AKG tuned sound.",
+    "image": ""
+  },
+  {
+    "id": 10,
+    "name": "Samsung Galaxy Buds Core",
+    "price": 119,
+    "description": "Affordable Samsung earbuds with stable fit and clear sound.",
+    "image": ""
+  },
+  {
+    "id": 11,
+    "name": "Samsung Galaxy Buds 4",
+    "price": 199,
+    "description": "Next generation Samsung earbuds with improved comfort and design.",
+    "image": ""
+  },
+  {
+    "id": 12,
+    "name": "Samsung Galaxy Buds 4 Pro",
+    "price": 279,
+    "description": "Flagship Samsung earbuds with premium sound and advanced AI features.",
+    "image": ""
+  }
+]
