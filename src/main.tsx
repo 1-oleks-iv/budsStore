@@ -5,15 +5,15 @@ import App from "./App.tsx";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import { ShoppingCartProvider } from "./context/ShoppingCartContext.tsx";
 
 createRoot(document.getElementById("root")!).render(
     <StrictMode>
-        <BrowserRouter>
+        <HashRouter>
             <ShoppingCartProvider>
                 <App />
             </ShoppingCartProvider>
-        </BrowserRouter>
+        </HashRouter>
     </StrictMode>
 );
